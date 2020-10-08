@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sajid Haroon - Full Stack Developer
+### Hi there 👋, I'm Sajid Haroon - Full Stack Web Developer
 
 ## I'm a Husband, Father, Software Developer and Industrial Automation Engineer!!
 
