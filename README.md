@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 - [Full Stack MERN - Best Fitness App](https://fullstack-fitnessapp-frontend.herokuapp.com)
 - [Full Stack MERN - MySkills App](https://react-skillsapp.netlify.app)
-- [React - Restauarant App](https://react-restaurantapp.herokuapp.com/)
+- [React - Restaurants App](https://react-restaurantapp.herokuapp.com/)
 - [React - Registration Form App](https://react-registrationform.netlify.app/)
-- [React - PredictNationality App](https://react-predictnationality.netlify.app/)
+- [React - Predict Nationality App](https://react-predictnationality.netlify.app/)
