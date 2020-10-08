@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Sajid Haroon
+### Hi there 👋, I'm Sajid Haroon - Full Stack Developer
+
+## I'm a Husband, Father, Software Developer and Industrial Automation Engineer!!
 
 <!--
 **SajidHaroon/SajidHaroon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
